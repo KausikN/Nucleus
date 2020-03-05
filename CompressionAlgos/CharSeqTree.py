@@ -72,7 +72,7 @@ class TreeNode:
 # Driver Code
 data = "FASVHLHLSDAJFHKFSHJBKDKJDIFEHUSKABJNLA:SAFDHLJKNSL:WERQEHLDJKS"
 print(len(bytearray(data, encoding='utf8')), bytearray(data, encoding='utf8'))
-compdata = CharSeqTree_Compress(data=data, groupLength=10, maxTreeHeight=20)
+compdata = CharSeqTree_Compress(data=data, groupLength=1, maxTreeHeight=10)
 PrintCharSeqTree(compdata.root)
 # filepath = 'CompressionAlgos/testfile.txt'
 # compdata = RunnerLength_Compress(filepath=filepath, groupLength=3, countFormat='dec')
