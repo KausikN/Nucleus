@@ -1,0 +1,10 @@
+{
+    "PROJECT_NAME": "Nucleus",
+    "PROJECT_LINK": "https://github.com/KausikN/Nucleus",
+
+    "PROJECT_DESC": "Compression, Encryption and Encoding Algorithms and Tools",
+
+    "PROJECT_README": "README.md",
+
+    "PROJECT_MODES": ["Compress Algos"]
+}

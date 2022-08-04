@@ -1,0 +1,112 @@
+{
+    "name": "Nucleus",
+    "repoLink": "https://github.com/KausikN/Nucleus",
+    "localPath": "E:/Github Codes and Projects/Projects/Nucleus",
+    "modules": {
+        "app.py": {
+            "name": "app",
+            "type": "local",
+            "link": "https://github.com/KausikN/Nucleus/blob/master/app.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
+            "subDir": "",
+            "dependencies": [
+                "os.py",
+                "streamlit.py",
+                "json.py",
+                "Nucleus.py"
+            ]
+        },
+        "Nucleus.py": {
+            "name": "Nucleus",
+            "type": "local",
+            "link": "https://github.com/KausikN/Nucleus/blob/master/Nucleus.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
+            "subDir": "",
+            "dependencies": [
+                "CharSeqTree.py",
+                "RunnerLength.py"
+            ]
+        },
+        "Algos/CharSeqTree.py": {
+            "name": "CharSeqTree",
+            "type": "local",
+            "link": "https://github.com/KausikN/Nucleus/blob/master/Algos/CharSeqTree.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
+            "subDir": "Algos",
+            "dependencies": [
+                "os.py",
+                "*.py"
+            ]
+        },
+        "Algos/RunnerLength.py": {
+            "name": "RunnerLength",
+            "type": "local",
+            "link": "https://github.com/KausikN/Nucleus/blob/master/Algos/RunnerLength.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
+            "subDir": "Algos",
+            "dependencies": [
+                "os.py",
+                "json.py",
+                "*.py"
+            ]
+        },
+        "Algos/Utils.py": {
+            "name": "Utils",
+            "type": "local",
+            "link": "https://github.com/KausikN/Nucleus/blob/master/Algos/Utils.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
+            "subDir": "Algos",
+            "dependencies": [
+                "os.py"
+            ]
+        },
+        "json.py": {
+            "name": "json",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "RunnerLength.py": {
+            "name": "RunnerLength",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "CharSeqTree.py": {
+            "name": "CharSeqTree",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "*.py": {
+            "name": "*",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "os.py": {
+            "name": "os",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "streamlit.py": {
+            "name": "streamlit",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        }
+    }
+}

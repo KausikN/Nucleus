@@ -1,0 +1,7 @@
+{
+    "repo_name": "Nucleus",
+    "requirements": [
+        "streamlit",
+        "opencv-python-headless"
+    ]
+}
