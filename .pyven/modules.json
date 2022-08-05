@@ -23,19 +23,7 @@
             "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
             "subDir": "",
             "dependencies": [
-                "CharSeqTree.py",
                 "RunnerLength.py"
-            ]
-        },
-        "Algos/CharSeqTree.py": {
-            "name": "CharSeqTree",
-            "type": "local",
-            "link": "https://github.com/KausikN/Nucleus/blob/master/Algos/CharSeqTree.py",
-            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
-            "subDir": "Algos",
-            "dependencies": [
-                "os.py",
-                "*.py"
             ]
         },
         "Algos/RunnerLength.py": {
@@ -60,27 +48,27 @@
                 "os.py"
             ]
         },
+        "streamlit.py": {
+            "name": "streamlit",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
         "json.py": {
             "name": "json",
-            "type": "missing",
+            "type": "inbuilt",
             "link": "",
-            "parentDir": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
             "subDir": "",
             "dependencies": []
         },
-        "RunnerLength.py": {
-            "name": "RunnerLength",
-            "type": "missing",
+        "os.py": {
+            "name": "os",
+            "type": "inbuilt",
             "link": "",
-            "parentDir": "",
-            "subDir": "",
-            "dependencies": []
-        },
-        "CharSeqTree.py": {
-            "name": "CharSeqTree",
-            "type": "missing",
-            "link": "",
-            "parentDir": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
             "subDir": "",
             "dependencies": []
         },
@@ -92,19 +80,11 @@
             "subDir": "",
             "dependencies": []
         },
-        "os.py": {
-            "name": "os",
-            "type": "missing",
+        "RunnerLength.py": {
+            "name": "RunnerLength",
+            "type": "inbuilt",
             "link": "",
-            "parentDir": "",
-            "subDir": "",
-            "dependencies": []
-        },
-        "streamlit.py": {
-            "name": "streamlit",
-            "type": "missing",
-            "link": "",
-            "parentDir": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/Nucleus",
             "subDir": "",
             "dependencies": []
         }

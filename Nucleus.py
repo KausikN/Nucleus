@@ -24,7 +24,7 @@ Compression
 """
 
 # Imports
-from Algos import CharSeqTree, RunnerLength
+from Algos import RunnerLength
 
 # Main Vars
 COMPRESSION_FUNCS = {
